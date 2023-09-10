@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+nav>ul>a{
+	text-decoration:none;
+	color:white;
+}
+.navbar{
+	display:flex;
+	background-color:brown;
+	
+}
+img{
+	height:250px;
+	width:300px;
+}
